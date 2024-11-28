@@ -1,0 +1,150 @@
+{
+  "infinity_cave:mechanics/weapons/sonic_bow/tick": {
+    "criteria": {
+      "requirement": "2024-11-28 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "pets:menu/despawn": {
+    "criteria": {
+      "requirement": "2024-11-28 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-11-28 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-28 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-28 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/thunder_harpoon/tick": {
+    "criteria": {
+      "requirement": "2024-11-28 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2024-11-28 23:03:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/taiga": {
+    "criteria": {
+      "requirement": "2024-11-28 23:03:45 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/tick": {
+    "criteria": {
+      "s": "2024-11-28 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "goml:recipes/all_recipes": {
+    "criteria": {
+      "has_chest": "2024-11-28 23:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/altar/tick": {
+    "criteria": {
+      "requirement": "2024-11-28 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-11-28 23:03:03 +0000",
+      "minecraft:taiga": "2024-11-28 23:03:44 +0000",
+      "minecraft:snowy_taiga": "2024-11-28 23:03:15 +0000",
+      "minecraft:snowy_beach": "2024-11-28 23:04:12 +0000"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/forest": {
+    "criteria": {
+      "requirement": "2024-11-28 23:03:03 +0000"
+    },
+    "done": true
+  },
+  "pets:not_hold_pet": {
+    "criteria": {
+      "requirement": "2024-11-28 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:load": {
+    "criteria": {
+      "requirement": "2024-11-28 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/snowy_taiga": {
+    "criteria": {
+      "requirement": "2024-11-28 23:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}

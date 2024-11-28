@@ -470,3 +470,31 @@
 [22:49:10] [Server thread/INFO]: All configured `rtp_enabled_worlds` world ids are valid.
 [22:49:10] [Server thread/INFO]: [Polydex] Started matching recipes and items...
 [22:49:14] [Server thread/INFO]: [Polydex] Done! It took 3409 ms
+[23:02:23] [Server thread/INFO]: rossell[/100.115.142.17:56952] logged in with entity id 2 at (9.5, 67.0, -42.5)
+[23:02:23] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '1c411181-79e4-3662-8c6e-44957ba53d91'.
+[23:02:23] [Server thread/INFO]: [STDOUT]: Ce : player joined, pausing chunky
+[23:02:23] [Server thread/INFO]: [Chunky] No tasks to pause.
+[23:02:23] [Server thread/INFO]: Using Fabric Permissions API
+[23:02:23] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[23:02:23] [Server thread/INFO]: rossell joined the game
+[23:02:23] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '1c411181-79e4-3662-8c6e-44957ba53d91'.
+[23:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5897ms or 117 ticks behind
+[23:02:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:02:30] [Server thread/INFO]: t<--[HERE]
+[23:03:02] [Server thread/INFO]: Async chunk loading for player rossell completed
+[23:04:25] [Server thread/INFO]: Made rossell a server operator
+[23:04:38] [Server thread/INFO]: [rossell: Set own game mode to Creative Mode]
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:04:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:05:04] [Server thread/INFO]: [rossell: Set own game mode to Survival Mode]
+[23:05:12] [Server thread/INFO]: [rossell: Set own game mode to Creative Mode]
+[23:05:14] [Server thread/INFO]: [rossell: Set own game mode to Survival Mode]
+[23:07:12] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
