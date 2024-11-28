@@ -498,3 +498,16 @@
 [23:05:12] [Server thread/INFO]: [rossell: Set own game mode to Creative Mode]
 [23:05:14] [Server thread/INFO]: [rossell: Set own game mode to Survival Mode]
 [23:07:12] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:08:12] [Server thread/INFO]: [rossell: Set own game mode to Creative Mode]
+[23:08:20] [Server thread/INFO]: [rossell: Set own game mode to Survival Mode]
+[23:08:22] [Server thread/INFO]: [rossell: Set own game mode to Creative Mode]
+[23:10:57] [Server thread/INFO]: rossell lost connection: Disconnected
+[23:10:57] [Server thread/INFO]: rossell left the game
+[23:10:57] [Server thread/INFO]: [voicechat] Disconnecting client rossell
+[23:15:56] [Server thread/INFO]: rossell[/100.115.142.17:57077] logged in with entity id 1446 at (-95.50486324256498, 63.0, 87.57898117024278)
+[23:15:56] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '1c411181-79e4-3662-8c6e-44957ba53d91'.
+[23:15:56] [Server thread/INFO]: [STDOUT]: Ce : player joined, pausing chunky
+[23:15:56] [Server thread/INFO]: [Chunky] No tasks to pause.
+[23:15:56] [Server thread/INFO]: rossell joined the game
+[23:15:56] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '1c411181-79e4-3662-8c6e-44957ba53d91'.
+[23:15:56] [Server thread/INFO]: Async chunk loading for player rossell completed

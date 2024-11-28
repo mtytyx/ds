@@ -103,6 +103,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-11-28 23:05:18 +0000",
+      "minecraft:frozen_river": "2024-11-28 23:05:27 +0000",
       "minecraft:forest": "2024-11-28 23:03:03 +0000",
       "minecraft:taiga": "2024-11-28 23:03:44 +0000",
       "minecraft:snowy_taiga": "2024-11-28 23:03:15 +0000",
