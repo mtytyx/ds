@@ -1,0 +1,15 @@
+{
+  "version": 2.0,
+  "lang": "en_us",
+  "keep-active": true,
+  "sit-while-seated": false,
+  "preset-blocks": {
+    "stairs": true,
+    "slabs": true,
+    "carpets": true,
+    "full-blocks": false
+  },
+  "custom-enabled": false,
+  "custom-blocks": [],
+  "blacklisted-blocks": []
+}

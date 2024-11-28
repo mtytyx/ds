@@ -1,0 +1,27 @@
+{
+  "version": 1.0,
+  "enabled": true,
+  "hand-sitting": true,
+  "main-hand": {
+    "mainBlock": false,
+    "requirement": "EMPTY",
+    "filter": {
+      "block": false,
+      "food": false,
+      "usable": false,
+      "custom-items": [],
+      "custom-tags": []
+    }
+  },
+  "off-hand": {
+    "mainBlock": false,
+    "requirement": "FILTER",
+    "filter": {
+      "block": false,
+      "food": true,
+      "usable": false,
+      "custom-items": [],
+      "custom-tags": []
+    }
+  }
+}
